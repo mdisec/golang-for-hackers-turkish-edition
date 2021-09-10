@@ -3,6 +3,12 @@ MDISEC Twitch kanalında yapılan `Golang for Hackers` isimli eğitim serisine a
 
 Bu eğitim serisi, başta Orhun(https://github.com/obegendi) olmak üzere, Ege Balcı(https://github.com/EgeBalci) ve topluluğun golang ile ilgili bilgisi olan muhtelif diğer bireyleri tarafından birlikte üretilmektedir.
 
+## Yayın kataloğu
+
+  1. 0x01 | Golang For Hackers - Hellooooooo !
+     * [https://www.twitch.tv/videos/1143860097](https://www.twitch.tv/videos/1143860097)
+     * [https://www.youtube.com/watch?v=jR683fqYVOo](https://www.youtube.com/watch?v=jR683fqYVOo)
+
 ## Table of Content
 
 <!--ts-->
