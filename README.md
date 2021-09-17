@@ -8,6 +8,9 @@ Bu eğitim serisi, başta Orhun(https://github.com/obegendi) olmak üzere, Ege B
   1. 0x01 | Golang For Hackers - Hellooooooo !
      * [https://www.twitch.tv/videos/1143860097](https://www.twitch.tv/videos/1143860097)
      * [https://www.youtube.com/watch?v=jR683fqYVOo](https://www.youtube.com/watch?v=jR683fqYVOo)
+  2. 0x02 | Golang For Hackers - Show Must "Go" on !
+     * [https://www.twitch.tv/videos/1150652332](https://www.twitch.tv/videos/1150652332)
+     * [https://www.youtube.com/watch?v=pd1KdCinFA4](https://www.youtube.com/watch?v=pd1KdCinFA4)
 
 ## Table of Content
 
