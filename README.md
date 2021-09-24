@@ -12,6 +12,7 @@ Bu eğitim serisi, başta Orhun(https://github.com/obegendi) olmak üzere, Ege B
   2. 0x02 | Golang For Hackers - Show Must "Go" on !
      * [https://www.twitch.tv/videos/1150652332](https://www.twitch.tv/videos/1150652332)
      * [https://www.youtube.com/watch?v=pd1KdCinFA4](https://www.youtube.com/watch?v=pd1KdCinFA4)
+	 * [0x02 Lecture Notes](lecturenotes/0x02.md)
 
 ## Table of Content
 
