@@ -17,18 +17,18 @@ Bu eğitim serisi, başta Orhun(https://github.com/obegendi) olmak üzere, Ege B
 ## Table of Content
 
 <!--ts-->
-* [Introduction](#giriş)
-	* [Language characteristics](#go-nedir)
-	* [What is Go good at it?](#go'yu-ön-plana-çıkaran-etkenler)
-    * [Tools](#araçlar)
-    * [Environment & Setup](#ortam-ve-kurulum)
+* [Introduction](lecturenotes/0x01.md#giriş)
+	* [Language characteristics](lecturenotes/0x01.md#go-nedir)
+	* [What is Go good at it?](lecturenotes/0x01.md#go'yu-ön-plana-çıkaran-etkenler)
+    * [Tools](lecturenotes/0x01.md#araçlar)
+    * [Environment & Setup](lecturenotes/0x01.md#ortam-ve-kurulum)
 
-* [Getting Started](#başlangıç)
-	* [Primitive Data Types](#primitive-veri-yapıları)
-	* [Pointers](#pointerlar)
-	* [Iota and Constants](#iota-ve-constant)
-	* [Arrays, slices and map data types](#array,-slice,-map,-ve-struct)
-	* [Functions and methods](#fonksiyonlar)
+* [Getting Started](lecturenotes/0x01.md#başlangıç)
+	* [Primitive Data Types](lecturenotes/0x01.md#primitive-veri-yapıları)
+	* [Pointers](lecturenotes/0x01.md#pointerlar)
+	* [Iota and Constants](lecturenotes/0x01.md#iota-ve-constant)
+	* [Arrays, slices and map data types](lecturenotes/0x01.md#array,-slice,-map,-ve-struct)
+	* [Functions and methods](lecturenotes/0x01.md#fonksiyonlar)
 	* [Return types and interfaces](#)
 	* [Loops and branching](#)
 
